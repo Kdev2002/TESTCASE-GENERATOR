@@ -17,13 +17,13 @@ logging.basicConfig(
 
 # Cloudinary Configuration
 cloudinary.config(
-  cloud_name='dqiwrtamu',  # Your Cloudinary Cloud Name
-  api_key='283341157146256',  # Your Cloudinary API Key
-  api_secret='2_Q7bi7HK5BOZXgKTluWqanpwDc'  # Your Cloudinary API Secret
+  cloud_name='xxxxx',  # Your Cloudinary Cloud Name
+  api_key='xxxxxxxxxxxxxxxx',  # Your Cloudinary API Key
+  api_secret='xxxxxxxxxxxxxxxxxxxxxxx'  # Your Cloudinary API Secret
 )
 
 # Initialize Groq client
-client = Groq(api_key="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")  # Your Groq API Key
+client = Groq(api_key="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")  # Your Groq API Key
 
 def upload_image_to_cloudinary(image_file):
     """
