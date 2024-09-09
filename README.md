@@ -78,4 +78,3 @@ The app will open in your default web browser, allowing you to upload screenshot
 
 ## License
 
-This project is licensed under the MIT License.
